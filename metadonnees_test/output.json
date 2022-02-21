@@ -1,0 +1,359 @@
+{
+    "html": {
+        "body": {
+            "x:xmpmeta": {
+                "@x:xmptk": "Adobe XMP Core 7.0-c000 79.217bca6, 2021/06/14-18:28:11        ",
+                "@xmlns:x": "adobe:ns:meta/",
+                "rdf:rdf": {
+                    "@xmlns:rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+                    "rdf:description": {
+                        "@rdf:about": "",
+                        "@xmlns:aux": "http://ns.adobe.com/exif/1.0/aux/",
+                        "@xmlns:crs": "http://ns.adobe.com/camera-raw-settings/1.0/",
+                        "@xmlns:dc": "http://purl.org/dc/elements/1.1/",
+                        "@xmlns:exifex": "http://cipa.jp/exif/1.0/",
+                        "@xmlns:photoshop": "http://ns.adobe.com/photoshop/1.0/",
+                        "@xmlns:stevt": "http://ns.adobe.com/xap/1.0/sType/ResourceEvent#",
+                        "@xmlns:stref": "http://ns.adobe.com/xap/1.0/sType/ResourceRef#",
+                        "@xmlns:xmp": "http://ns.adobe.com/xap/1.0/",
+                        "@xmlns:xmpmm": "http://ns.adobe.com/xap/1.0/mm/",
+                        "xmp:rating": "0",
+                        "xmp:modifydate": "2022-01-27T16:30:48+01:00",
+                        "xmp:createdate": "2021-12-07T11:25:10",
+                        "xmp:metadatadate": "2022-01-27T16:30:48+01:00",
+                        "xmp:creatortool": "Adobe Photoshop 22.4 (Windows)",
+                        "aux:serialnumber": "073024011577",
+                        "aux:lensinfo": "50/1 50/1 0/0 0/0",
+                        "aux:lens": "EF50mm f/1.8 II",
+                        "aux:lensid": "29",
+                        "aux:lensserialnumber": "0000000000",
+                        "aux:imagenumber": "0",
+                        "aux:flashcompensation": "0/1",
+                        "aux:firmware": "1.2.1",
+                        "exifex:lensmodel": "EF50mm f/1.8 II",
+                        "photoshop:datecreated": "2021-12-07T11:25:10.001",
+                        "photoshop:colormode": "3",
+                        "photoshop:iccprofile": "Adobe RGB (1998)",
+                        "photoshop:authorsposition": "Sans titre",
+                        "photoshop:documentancestors": {
+                            "rdf:bag": {
+                                "rdf:li": [
+                                    "xmp.did:1051a1b9-3d9e-9646-92a8-69bae6c86ec8",
+                                    "xmp.did:99d3ac4b-aeec-444f-a607-0fb1336abf3f"
+                                ],
+                                "#text": "\\n\n       \n       \\n\n       \n       \\n"
+                            },
+                            "#text": "\\n\n      \n      \\n"
+                        },
+                        "xmpmm:documentid": "adobe:docid:photoshop:52178e3c-d6d1-7a4d-ad25-4d2f26147058",
+                        "xmpmm:history": {
+                            "rdf:seq": {
+                                "rdf:li": [
+                                    {
+                                        "@rdf:parsetype": "Resource",
+                                        "stevt:action": "derived",
+                                        "stevt:parameters": "converted from image/x-canon-cr2 to image/tiff",
+                                        "#text": "\\n\n        \n        \\n\n        \n        \\n"
+                                    },
+                                    {
+                                        "@rdf:parsetype": "Resource",
+                                        "stevt:action": "saved",
+                                        "stevt:instanceid": "xmp.iid:97167817-7895-1042-8322-d33e2ba1e08b",
+                                        "stevt:when": "2021-12-15T15:51:24+01:00",
+                                        "stevt:softwareagent": "Adobe Photoshop Camera Raw 13.3 (Windows)",
+                                        "stevt:changed": "/",
+                                        "#text": "\\n\n        \n        \\n\n        \n        \\n\n        \n        \\n\n        \n        \\n\n        \n        \\n"
+                                    },
+                                    {
+                                        "@rdf:parsetype": "Resource",
+                                        "stevt:action": "saved",
+                                        "stevt:instanceid": "xmp.iid:2044370b-0e13-ed4e-af21-b785482cfdb2",
+                                        "stevt:when": "2022-01-27T16:30:48+01:00",
+                                        "stevt:softwareagent": "Adobe Photoshop 22.4 (Windows)",
+                                        "stevt:changed": "/",
+                                        "#text": "\\n\n        \n        \\n\n        \n        \\n\n        \n        \\n\n        \n        \\n\n        \n        \\n"
+                                    }
+                                ],
+                                "#text": "\\n\n       \n       \\n\n       \n       \\n\n       \n       \\n"
+                            },
+                            "#text": "\\n\n      \n      \\n"
+                        },
+                        "xmpmm:originaldocumentid": "AEF49B9063E3BDE2F13EF0ABA23AB702",
+                        "xmpmm:derivedfrom": {
+                            "@rdf:parsetype": "Resource",
+                            "stref:documentid": "AEF49B9063E3BDE2F13EF0ABA23AB702",
+                            "stref:originaldocumentid": "AEF49B9063E3BDE2F13EF0ABA23AB702",
+                            "#text": "\\n\n      \n      \\n\n      \n      \\n"
+                        },
+                        "xmpmm:instanceid": "xmp.iid:2044370b-0e13-ed4e-af21-b785482cfdb2",
+                        "dc:format": "image/tiff",
+                        "dc:subject": {
+                            "rdf:bag": {
+                                "rdf:li": [
+                                    "Corps",
+                                    "\\xc3\\xa9trange",
+                                    "d\\xc3\\xa9construction"
+                                ],
+                                "#text": "\\n\n       \n       \\n\n       \n       \\n\n       \n       \\n"
+                            },
+                            "#text": "\\n\n      \n      \\n"
+                        },
+                        "dc:rights": {
+                            "rdf:alt": {
+                                "rdf:li": {
+                                    "@xml:lang": "x-default",
+                                    "#text": "Nancy"
+                                },
+                                "#text": "\\n\n       \n       \\n"
+                            },
+                            "#text": "\\n\n      \n      \\n"
+                        },
+                        "dc:creator": {
+                            "rdf:seq": {
+                                "rdf:li": [
+                                    "Jade",
+                                    "Jumeaux",
+                                    "3e ann\\xc3\\xa9e",
+                                    "Art"
+                                ],
+                                "#text": "\\n\n       \n       \\n\n       \n       \\n\n       \n       \\n\n       \n       \\n"
+                            },
+                            "#text": "\\n\n      \n      \\n"
+                        },
+                        "dc:description": {
+                            "rdf:alt": {
+                                "rdf:li": {
+                                    "@xml:lang": "x-default",
+                                    "#text": "2021 ; num\\xc3\\xa9rique ; jade.jumeaux@mail.ensa-nancy.fr"
+                                },
+                                "#text": "\\n\n       \n       \\n"
+                            },
+                            "#text": "\\n\n      \n      \\n"
+                        },
+                        "crs:version": "13.3",
+                        "crs:processversion": "11.0",
+                        "crs:whitebalance": "As Shot",
+                        "crs:temperature": "6300",
+                        "crs:tint": "+10",
+                        "crs:exposure2012": "+0.60",
+                        "crs:contrast2012": "0",
+                        "crs:highlights2012": "0",
+                        "crs:shadows2012": "0",
+                        "crs:whites2012": "+7",
+                        "crs:blacks2012": "-34",
+                        "crs:texture": "0",
+                        "crs:clarity2012": "0",
+                        "crs:dehaze": "0",
+                        "crs:vibrance": "0",
+                        "crs:saturation": "0",
+                        "crs:parametricshadows": "0",
+                        "crs:parametricdarks": "0",
+                        "crs:parametriclights": "0",
+                        "crs:parametrichighlights": "0",
+                        "crs:parametricshadowsplit": "25",
+                        "crs:parametricmidtonesplit": "50",
+                        "crs:parametrichighlightsplit": "75",
+                        "crs:sharpness": "40",
+                        "crs:sharpenradius": "+1.0",
+                        "crs:sharpendetail": "25",
+                        "crs:sharpenedgemasking": "0",
+                        "crs:luminancesmoothing": "0",
+                        "crs:colornoisereduction": "25",
+                        "crs:colornoisereductiondetail": "50",
+                        "crs:colornoisereductionsmoothness": "50",
+                        "crs:hueadjustmentred": "0",
+                        "crs:hueadjustmentorange": "0",
+                        "crs:hueadjustmentyellow": "0",
+                        "crs:hueadjustmentgreen": "0",
+                        "crs:hueadjustmentaqua": "0",
+                        "crs:hueadjustmentblue": "0",
+                        "crs:hueadjustmentpurple": "0",
+                        "crs:hueadjustmentmagenta": "0",
+                        "crs:saturationadjustmentred": "0",
+                        "crs:saturationadjustmentorange": "0",
+                        "crs:saturationadjustmentyellow": "0",
+                        "crs:saturationadjustmentgreen": "0",
+                        "crs:saturationadjustmentaqua": "0",
+                        "crs:saturationadjustmentblue": "0",
+                        "crs:saturationadjustmentpurple": "0",
+                        "crs:saturationadjustmentmagenta": "0",
+                        "crs:luminanceadjustmentred": "0",
+                        "crs:luminanceadjustmentorange": "0",
+                        "crs:luminanceadjustmentyellow": "0",
+                        "crs:luminanceadjustmentgreen": "0",
+                        "crs:luminanceadjustmentaqua": "0",
+                        "crs:luminanceadjustmentblue": "0",
+                        "crs:luminanceadjustmentpurple": "0",
+                        "crs:luminanceadjustmentmagenta": "0",
+                        "crs:splittoningshadowhue": "0",
+                        "crs:splittoningshadowsaturation": "0",
+                        "crs:splittoninghighlighthue": "0",
+                        "crs:splittoninghighlightsaturation": "0",
+                        "crs:splittoningbalance": "0",
+                        "crs:colorgrademidtonehue": "0",
+                        "crs:colorgrademidtonesat": "0",
+                        "crs:colorgradeshadowlum": "0",
+                        "crs:colorgrademidtonelum": "0",
+                        "crs:colorgradehighlightlum": "0",
+                        "crs:colorgradeblending": "50",
+                        "crs:colorgradeglobalhue": "0",
+                        "crs:colorgradeglobalsat": "0",
+                        "crs:colorgradegloballum": "0",
+                        "crs:autolateralca": "0",
+                        "crs:lensprofileenable": "0",
+                        "crs:lensmanualdistortionamount": "0",
+                        "crs:vignetteamount": "0",
+                        "crs:defringepurpleamount": "0",
+                        "crs:defringepurplehuelo": "30",
+                        "crs:defringepurplehuehi": "70",
+                        "crs:defringegreenamount": "0",
+                        "crs:defringegreenhuelo": "40",
+                        "crs:defringegreenhuehi": "60",
+                        "crs:perspectiveupright": "0",
+                        "crs:perspectivevertical": "0",
+                        "crs:perspectivehorizontal": "0",
+                        "crs:perspectiverotate": "0.0",
+                        "crs:perspectiveaspect": "0",
+                        "crs:perspectivescale": "100",
+                        "crs:perspectivex": "0.00",
+                        "crs:perspectivey": "0.00",
+                        "crs:grainamount": "0",
+                        "crs:postcropvignetteamount": "0",
+                        "crs:shadowtint": "0",
+                        "crs:redhue": "0",
+                        "crs:redsaturation": "0",
+                        "crs:greenhue": "0",
+                        "crs:greensaturation": "0",
+                        "crs:bluehue": "0",
+                        "crs:bluesaturation": "0",
+                        "crs:overridelookvignette": "False",
+                        "crs:tonecurvename2012": "Linear",
+                        "crs:tonecurvepv2012": {
+                            "rdf:seq": {
+                                "rdf:li": [
+                                    "0, 0",
+                                    "255, 255"
+                                ],
+                                "#text": "\\n\n       \n       \\n\n       \n       \\n"
+                            },
+                            "#text": "\\n\n      \n      \\n"
+                        },
+                        "crs:tonecurvepv2012red": {
+                            "rdf:seq": {
+                                "rdf:li": [
+                                    "0, 0",
+                                    "255, 255"
+                                ],
+                                "#text": "\\n\n       \n       \\n\n       \n       \\n"
+                            },
+                            "#text": "\\n\n      \n      \\n"
+                        },
+                        "crs:tonecurvepv2012green": {
+                            "rdf:seq": {
+                                "rdf:li": [
+                                    "0, 0",
+                                    "255, 255"
+                                ],
+                                "#text": "\\n\n       \n       \\n\n       \n       \\n"
+                            },
+                            "#text": "\\n\n      \n      \\n"
+                        },
+                        "crs:tonecurvepv2012blue": {
+                            "rdf:seq": {
+                                "rdf:li": [
+                                    "0, 0",
+                                    "255, 255"
+                                ],
+                                "#text": "\\n\n       \n       \\n\n       \n       \\n"
+                            },
+                            "#text": "\\n\n      \n      \\n"
+                        },
+                        "crs:cameraprofile": "Adobe Standard",
+                        "crs:cameraprofiledigest": "87FB0EDC503E332309FB5DE5C5C65125",
+                        "crs:look": {
+                            "@rdf:parsetype": "Resource",
+                            "crs:name": "Adobe Color",
+                            "crs:amount": "1.000000",
+                            "crs:group": {
+                                "rdf:alt": {
+                                    "rdf:li": {
+                                        "@xml:lang": "x-default",
+                                        "#text": "Profiles"
+                                    },
+                                    "#text": "\\n\n        \n        \\n"
+                                },
+                                "#text": "\\n\n       \n       \\n"
+                            },
+                            "crs:uuid": "B952C231111CD8E0ECCF14B86BAA7077",
+                            "crs:supportsamount": "false",
+                            "crs:supportsmonochrome": "false",
+                            "crs:supportsoutputreferred": "false",
+                            "crs:copyright": "\\xc2\\xa9 2018 Adobe Systems, Inc.",
+                            "crs:parameters": {
+                                "@rdf:parsetype": "Resource",
+                                "crs:version": "13.3",
+                                "crs:processversion": "11.0",
+                                "crs:converttograyscale": "False",
+                                "crs:tonecurvepv2012": {
+                                    "rdf:seq": {
+                                        "rdf:li": [
+                                            "0, 0",
+                                            "22, 16",
+                                            "40, 35",
+                                            "127, 127",
+                                            "224, 230",
+                                            "240, 246",
+                                            "255, 255"
+                                        ],
+                                        "#text": "\\n\n         \n         \\n\n         \n         \\n\n         \n         \\n\n         \n         \\n\n         \n         \\n\n         \n         \\n\n         \n         \\n"
+                                    },
+                                    "#text": "\\n\n        \n        \\n"
+                                },
+                                "crs:tonecurvepv2012red": {
+                                    "rdf:seq": {
+                                        "rdf:li": [
+                                            "0, 0",
+                                            "255, 255"
+                                        ],
+                                        "#text": "\\n\n         \n         \\n\n         \n         \\n"
+                                    },
+                                    "#text": "\\n\n        \n        \\n"
+                                },
+                                "crs:tonecurvepv2012green": {
+                                    "rdf:seq": {
+                                        "rdf:li": [
+                                            "0, 0",
+                                            "255, 255"
+                                        ],
+                                        "#text": "\\n\n         \n         \\n\n         \n         \\n"
+                                    },
+                                    "#text": "\\n\n        \n        \\n"
+                                },
+                                "crs:tonecurvepv2012blue": {
+                                    "rdf:seq": {
+                                        "rdf:li": [
+                                            "0, 0",
+                                            "255, 255"
+                                        ],
+                                        "#text": "\\n\n         \n         \\n\n         \n         \\n"
+                                    },
+                                    "#text": "\\n\n        \n        \\n"
+                                },
+                                "crs:cameraprofile": "Adobe Standard",
+                                "crs:looktable": "E1095149FDB39D7A057BAB208837E2E1",
+                                "#text": "\\n\n       \n       \\n\n       \n       \\n\n       \n       \\n\n       \n       \\n\n       \n       \\n\n       \n       \\n\n       \n       \\n\n       \n       \\n\n       \n       \\n"
+                            },
+                            "#text": "\\n\n      \n      \\n\n      \n      \\n\n      \n      \\n\n      \n      \\n\n      \n      \\n\n      \n      \\n\n      \n      \\n\n      \n      \\n\n      \n      \\n"
+                        },
+                        "crs:hassettings": "True",
+                        "crs:hascrop": "False",
+                        "crs:alreadyapplied": "True",
+                        "#text": "\\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n\n     \n     \\n"
+                    },
+                    "#text": "\\n\n    \n    \\n"
+                },
+                "#text": "\\n\n   \n   \\n"
+            }
+        }
+    }
+}
