@@ -1,7 +1,8 @@
-#includepath "~/Documents/;%USERPROFILE%Documents";
+﻿#includepath "C:/Users/creep/Documents";
 #include "basiljs/bundle/basil.js";
 
 function draw() {
+
 
   d = b.doc();
 
