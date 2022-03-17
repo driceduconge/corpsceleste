@@ -8,16 +8,16 @@ from PIL.ExifTags import TAGS
 import piexif
 import os
 # assign directory
-directory = 'versiontravail'
+directory = 'versiontravail_final'
 
 f=open("output.json","w")
 evv=open("test.csv","w")
-evv.write("Fichier,nom,prenomn,mots_clefs,ecole,date,heure,ouv.,vitesse"+"\n")
+evv.write("fichier,nom,prenom,mots,ecole,date,heure,ouv.,vitesse"+"\n")
 for fname in os.listdir(directory):
     f = os.path.join(directory, fname)
     # checking if it is a file
     if os.path.isfile(f):
-        imagename = "versiontravail/"+fname
+        imagename = "versiontravail_final/"+fname
         print(imagename+"\n")
         exif_dict = piexif.load(imagename)
         try:
