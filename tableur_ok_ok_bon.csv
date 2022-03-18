@@ -1,173 +1,173 @@
-luminosite,prenom,nom,mots,ecole,date,heure,ouv.,vitesse,saturation,fichier
-0,Capucine,Moyroud,pouponière d'étoile | poussière d'étoile | pluie d'étoile | ,Mulhouse,2022-01-18,13:24:59,60,1/40,0,/MULHOUSE_MOYROUD_Capucine_04_versionTravail.tif
-10,Corentin,Ferry,Lunaire | planisphère | mise en scène | ,Metz,2021-12-04,14:57:01,40,1/200,55,/METZ_FERRY_Corentin_versionTravail.tif
-12,Colin,Katharina Élisa,intimité | corps | composition | ,Épinal,2022-01-06,16:44:20+01:00, , ,48,/EPINAL_COLIN_Katharina_02_versionTravail.tif
-13,Collin,Rose,Vert | Lumière | Feuillage | ,Mulhouse,2021-10-22,12:31:14,350,1/200,100,/MULHOUSE_COLLIN_Rose_01_versionTravail.tif
-13,Chiara,Schwartz,Voyageuses | ombres | abandon | ,Strasbourg,2022-01-25,11:12:06+01:00, , ,27,/STRASBOURG_SCHWARTZ_Chiara_01_versionTravail.tif
-14,Assya,Agbere,lumière | reflet | astre | ,Mulhouse,2022-01-05,20:11:07,55,1/60,115,/MULHOUSE_AGBERE_Assya_02_versionTravail.tif
-15,Mesnier,Violette,Élévation | mouvement | tension | Sténopé | temps d’exposition 10 secondes | Série de 25 sténopés dont 10 de retenus | tailles et formes variables | 10 secondes à 3 minutes 30 | ,Épinal,2022-01-23,23:13:17+01:00, , ,0,/EPINAL_MESNIER_Violette_01_versionTravail.tif
-15,Léa,Govignon,Kepler | visage | musique | ,Strasbourg,2021-12-12,18:01:06,550,1/60,121,/STRASBOURG_GOVIGNON_Lea_06_versionTravail.tif
-15,Chiara,Schwartz,Voyageuses | ombres | abandon | ,Strasbourg,2021-10-14,12:10:04+02:00, , ,0,/STRASBOURG_SCHWARTZ_Chiara_03_versionTravail.tif
-19,Audrey,Borja,Eclipse | Soleil | Lune | ,Mulhouse,2022-01-07,14:59:44+01:00, , ,0,/MULHOUSE_BORJA_Audrey_02_versionTravail.tif
-20,Youna,Dacher,élement | présent | lien | ,Reims,2021-01-18,11:58:07,28,1/320,70,/REIMS_DACHER__Youna_01_versionTravail.tif
-21,Isaac,Elbaz,entité | empreinte | passé. | ,Reims,2022-01-23,17:56:13+01:00, , ,48,/REIMS_ELBAZ_Isaac_01_versionTravail.tif
-22,Assya,Agbere,lumière | reflet | astre | ,Mulhouse,2021-12-08,18:34:09,55,1/60,94,/MULHOUSE_AGBERE_Assya_01_versionTravail.tif
-22,Bérénice,Vialard,Sacré | peinture | voile | ,Strasbourg,2021-12-11,20:10:44,18,1/60,83,/STRASBOURG_VIALARD_Berenice_02_versionTravail.tif
-23,Aurélia,Budin,corps | fantôme | néant | ,Épinal,2021-12-09,10:44:29+01:00, , ,0,/EPINAL_BUDIN_Aurelia_01_versionTravail.tif
-25,Aline,Ricci,Plume | rituel | identité | ,Metz,2010-07-04,00:31:01,42,1/4,0,/METZ_RICCI_Aline_versionTravail.tif
-26,Louise,Assouly,Piège | Capture | Braconnage | ,Mulhouse,2022-01-05,14:23:26+01:00, , ,0,/MULHOUSE_ASSOULY_Louise_05_versionTravail.tif
-26,Mona,Chevalier,Fragment | lueur | roche | ,Mulhouse,2021-10-29,16:16:41+02:00, , ,0,/MULHOUSE_CHEVALIER_Mona_02_versionTravail.tif
-27,Soline,Pin,plume | flottement | aérien | ,Metz,2021-10-05,09:10:26,554,1/160,0,/METZ_PIN_Soline_versionTravail.tif
-27,Léa,Byczinski,planète | eau | rouge | ,Mulhouse,2022-01-24,16:29:59,1050,1/400,189,/MULHOUSE_BYCZINSKI_Lea_03_versionTravail.tif
-28,Jade,Jumeaux,Obscur | translucide | eau | ,Nancy,2021-12-14,11:53:41+01:00, , ,0,/NANCY_JUMEAUX_Jade_01.tif_versionTravail.tif
-29,Zoé ,Vincent ,forêt | aube | ,Strasbourg,2021-11-11,07:55:32,830,3,134,/STRASBOURG_VINCENT_Zoe_01_versionTravail.tif
-30,Hugo, Titelein,Liminal | Autel | Espace-temps | ,Reims,2021-02-22,02:23,230,1/8,0,/REIMS_TITELEIN_Hugo_01__versionTravail.tif
-31,Vincent,Ineichen,chimique | organique | poétique | ,Reims,2021-05-21,18:20:51+02:00, , ,0,/Reims_INEICHEN_Vincent_ 01_versionTravail.tif
-31,Léa,Govignon,Harmonices | mundi | Kepler | ,Strasbourg,2021-12-12,17:55:24,550,1/60,66,/STRASBOURG_GOVIGNON_Lea_07_versionTravail.tif
-32,Nathan,Boubet,comète | envol | espace | ,Mulhouse,2016-02-09,22:53:03,45,1/125,21,/MULHOUSE_BOUBET_Nathan_02_versionTravail.tif
-34,Zoé ,Vincent ,foret | nuit | velo | ,Strasbourg,Inconnu,Inconnu,630,1/60,61,/STRASBOURG_VINCENT_zoe_03_versionTravail.jpg
-34,Zoé ,Vincent ,forêt | nuit | fete | ,Strasbourg,Inconnu,Inconnu,630,1/60,48,/STRASBOURG_VINCENT_zoe_04_versionTravail.jpg
-37,Colin,Katharina Élisa,intimité | corps | composition | ,Épinal,2022-01-07,01:49:12+01:00, , ,74,/EPINAL_COLIN_Katharina_01_versionTravail.tif
-37,Louise,Assouly,Piège | Capture | Braconnage | ,Mulhouse,2022-01-07,13:14:52+01:00, , ,0,/MULHOUSE_ASSOULY_Louise_03_versionTravail.tif
-37,Laurine,Dicop,Nature | roche | paréidolie | ,Mulhouse,2021-10-22,13:12:42,5000,1/60,91,/MULHOUSE_DICOP_Laurine_03_versionTravail.tif
-37,Rémi,Brimboeuf,Temporalité | Montage | Attraction | ,Strasbourg,Inconnu,Inconnu, , ,207,/STRASBOURG_BRIMBOEUF_Remi_04_versionTravail.jpg
-40,Suzon,Eugé,Portrait | intimité | vaporeux | ,Metz,2022-01-11,10:19:13, , ,38,/METZ_EUGE_Suzon_versionTravail.tif
-40,Chiara,Schwartz,Voyageuses | ombres | abandon | ,Strasbourg,2020-09-23,15:53:47+02:00, , ,0,/STRASBOURG_SCHWARTZ_Chiara_04_versionTravail.tif
-41,Nathan,Boubet,comète | envol | espace | ,Mulhouse,2016-02-09,22:56:08,46,1/125,5,/MULHOUSE_BOUBET_Nathan_01_versionTravail.tif
-41,Emilie,Gentilini-Garsiglia,courbe | dynamique | aspérité | ,Mulhouse,2021-11-04,16:24:37,600,1/125,0,/MULHOUSE_GENTILINI-GARSIGLIA_Emilie_04_versionTravail.tif
-41,Zoé ,Vincent ,forêt | nuit | ,Strasbourg,Inconnu,Inconnu,830,3,73,/STRASBOURG_VINCENT_zoe_02_versionTravail.jpg
-42,Audrey,Borja,Astronaute | Voyage | Spatiale | ,Mulhouse,2022-01-13,19:52:02+01:00, , ,0,/MULHOUSE_BORJA_Audrey_03_versionTravail.tif
-43,Mona,Chevalier,Lueur | roche | sélène | ,Mulhouse,2021-11-26,22:41:18,350,1/2000,76,/MULHOUSE_CHEVALIER_Mona_01_versionTravail.tif
-44,Nathan,Boubet,comète | envol | espace | ,Mulhouse,2016-02-09,22:40:25,56,1/125,25,/MULHOUSE_BOUBET_Nathan_03_versionTravail.tif
-44,Rose,Collin,Lumière | Feuilles | Feuillage | ,Mulhouse,2021-10-22,13:08:18,350,1/200,116,/MULHOUSE_COLLIN_Rose_02_versionTravail.tif
-44,Laurine,Dicop,Paréidolie | nature | tronc | ,Mulhouse,2021-10-22,13:20:50,3700,1/60,0,/MULHOUSE_DICOP_Laurine_04_versionTravail.tif
-45,Assya,Agbere,lumière | reflet | astre | ,Mulhouse,2022-01-05,20:13,55,1/60,129,/MULHOUSE_AGBERE_Assya_03_versionTravail.tif
-45,Clara-Louise,Hoffsaes,Inconnu,Reims,2022-01-16,21:49:05,900,1/30,71,/Reims_HOFFSAES_ClaraLouise_01_versionTravail.tif
-45,Chiara,Schwartz,Voyageuses | ombres | abandon | ,Strasbourg,2020-09-23,15:53:50+02:00, , ,0,/STRASBOURG_SCHWARTZ_Chiara_02_versionTravail.tif
-47, Martin, Gouriou,Disparition | Aladin | 3D,Strasbourg,2022-02-02,17:37:29+01:00, , ,77,/STRASBOURG_GOURIOU_Martin_3_versionTravail.tif
-47,Bérénice,Vialard,Sacré | peinture | voile | ,Strasbourg,2021-12-23,23:56:13,18,1/60,140,/STRASBOURG_VIALARD_Berenice_04_versionTravail.tif
-51,Capucine,Moyroud,pouponière d'étoile | pluie d'étoile | poussière d'étoile | ,Mulhouse,2022-01-18,13:23:31,60,1/40,0,/MULHOUSE_MOYROUD_Capucine_02.tiff_versionTravail.tif
-52,Laurine,Dicop,Paréidolie | nature | souche | ,Mulhouse,2021-12-17,16:54:16,3400,1/200,0,/MULHOUSE_DICOP_Laurine_02_versionTravail.tif
-53,Jade,Jumeaux,Corps | étrange | déconstruction | ,Nancy,2021-12-07,11:27:48,50,1/160,162,/NANCY_JUMEAUX_Jade_03.tif_versionTravail.tif
-54,Laurine,Dicop,Clair-obscur | nature | paréidolie | ,Mulhouse,2021-10-22,12:50:12,3200,1/60,0,/MULHOUSE_DICOP_Laurine_01_versionTravail.tif
-54,Martin, Gouriou,Disparition | Aladin | 3D,Strasbourg,2022-02-02,17:34:55+01:00, , ,73,/STRASBOURG_GOURIOU_Martin_1_versionTravail.tif
-55,Lou,Favrau,Vertige | infini | soir | ,Reims,2021-11-12,17:42:39,5500,1/125,74,/REIMS_FAVREAU_Lou_02_versionTravail.tif
-55,Axel,Alousque,Émanation | Capture | Fantôme | ,Strasbourg,2022-02-02,17:20:18+01:00, , ,96,/STRASBOURG_ALOUSQUE_Axel_02_versionTravail.tif
-56,Capucine,Moyroud,pouponière d'étoile | pluie d'étoile | poussière d'étoile | ,Mulhouse,2022-01-18,13:20:58,60,1/40,0,/MULHOUSE_MOYROUD_Capucine_01_versionTravail.tif
-57, Martin, Gouriou,Disparition | Aladin | 3D,Strasbourg,2022-02-02,16:09:03+01:00, , ,80,/STRASBOURG_GOURIOU_Martin_2_versionTravail.tif
-58,Léa,Panijel,documentaire | fiction | abandon,Strasbourg,2022-01-23,19:55:17+01:00, , ,0,/STRASBOURG_PANIJEL_lea_2_versionTravail.tif
-58,Louise,Schwartz-Régnier,fiction | science | cosmos | ,Strasbourg,2022-02-22,12:42:44+01:00, , ,13,/STRASBOURG_SCHWARTZREGNIER_Louise_img2_versionTravail.tif
-58,Bérénice,Vialard,Sacré | peinture | voile | ,Strasbourg,2021-12-23,23:58:03,18,1/60,86,/STRASBOURG_VIALARD_Berenice_03_versionTravail.tif
-59,Léa,Govignon,Harmonices | Mundi | Processing | ,Strasbourg,2021-12-12,18:07:40,180,01/01/60,152,/STRASBOURG_GOVIGNON_Lea_03_versionTravail.tif
-60,Léa,Byczinski,lumière | motif | abstraction | ,Mulhouse,2022-01-24,13:15:23,1050,1/640,49,/MULHOUSE_BYCZINSKI_Lea_02_versionTravail.tif
-60,Louise,Schwartz-Régnier,fiction | science | cosmos | ,Strasbourg,2022-02-22,12:42:44+01:00, , ,27,/STRASBOURG_SCHWARTZREGNIER_Louise_img1_versionTravail.tif
-61,Gabriella,Dabetic,Envol | flou | suspens | ,Metz,2021-11-02,16:05:55,270,1/8,0,/METZ_DABETIC_Gabriella_versionTravail.tif
-61,Louise,Assouly,Piège | Capture | Braconnage | ,Mulhouse,2022-05-01,11:43:44+02:00, , ,0,/MULHOUSE_ASSOULY_Louise_04_versionTravail.tif
-61,Léa,Byczinski,réfléxion | lumière | paysage lunaire | ,Mulhouse,2022-01-24,16:02:06,1050,1/4000,113,/MULHOUSE_BYCZINSKI_Lea_01_versionTravail.tif
-63,Jane,Bidet,au delà | la terre | la lumière | ,Mulhouse,2022-01-15,15:07:11+01:00, , ,64,/MULHOUSE_BIDET_JANE_02_versionTravail.tif
-63,Ludmila,VORONITCH,Forces | Contraste | Mystique | ,Nancy,Inconnu,Inconnu,17000000,16666/1000000,0,/NANCY_VORONITCH_Ludmila_03_versionTravail.jpg
-64,Emilie,Gentilini-Garsiglia,courbe | dynamique | aspérité | ,Mulhouse,2021-11-04,17:22:21,650,1/125,9,/MULHOUSE_GENTILINI-GARSIGLIA_Emilie_02_versionTravail.tif
-64,Paloma,Jan,carnation | contraste | temps | ,Reims,2022-01-26,18:05:10+01:00, , ,62,/REIMS_JAN_Paloma_01_versionTravail.tif
-68,Axel,Alousque,Émanation | Capture | Fantôme | ,Strasbourg,2022-02-02,17:11:32+01:00, , ,110,/STRASBOURG_ALOUSQUE_Axel_01_versionTravail.tif
-69,Rose,Le Goff,Gravité | Attraction | Relation | ,Reims,2019-11-20,15:21:22,1050,1/25,41,/REIMS_LEGOFF_ROSE_01_versionTravail.tif
-70,Valentine,Poulet,Extase | papillon | nuit | ,Metz,2021-11-10,12:02:33, , ,72,/METZ_POULET_Valentine_versionTravail.tif
-70,Eva,Chanoir,Inconnu,Reims,2022-01-14,16:23:56+01:00, , ,8,/REIMS_CHANOIR_Eva_versionTravail.tif
-71,Isabelle,Audoineau,organique | spectre | espace | ,Mulhouse,2022-01-22,17:32:20+01:00, , ,77,/MULHOUSE_AUDOINEAU_Isabelle_01_versionTravail.tif
-71,Youngjoo,Kang,laser | planétaire | lune | ,Strasbourg,2021-12-16,16:30:22+01:00, , ,58,/STRASBOURG_KANG_Youngjoo_01_versionTravail.tif
-72,Louise,Assouly,Piège | Capture | Braconnage | ,Mulhouse,2021-03-03,03:12:56+01:00, , ,0,/MULHOUSE_ASSOULY_Louise_02_versionTravail.tif
-75,Jade,Jumeaux,Corps | étrange | déconstruction | ,Nancy,2021-12-07,11:25:10,50,1/160,146,/NANCY_JUMEAUX_Jade_02.tif_versionTravail.tif
-76,Emilie,Gentilini-Garsiglia,courbe | trous noir | aspérité | ,Mulhouse,2021-11-04,17:22:30,650,1/125,10,/MULHOUSE_GENTILINI-GARSIGLIA_Emilie_01_versionTravail.tif
-77,Mona,Chevalier,apparition | silhouette | lueur | ,Mulhouse,2022-01-06,14:47:14+01:00, , ,126,/MULHOUSE_CHEVALIER_Mona_03_versionTravail.tif
-80,Sangal,Ntamack,delta | mars | eau | ,Mulhouse,2022-01-13,18:12:42+01:00, , ,0,/MULHOUSE_NTAMACK_Sangal_03_versionTravail.tif
-81,Emilie,Gentilini-Garsiglia,courbe | dynamique | aspérité | ,Mulhouse,2021-11-04,16:27:12,600,1/125,0,/MULHOUSE_GENTILINI-GARSIGLIA_Emilie_03_versionTravail.tif
-81,Capucine,Moyroud,pluie d'étoile | poussière d'étoile | pouponière d'étoile | ,Mulhouse,2022-01-18,13:24:16,60,1/40,0,/MULHOUSE_MOYROUD_Capucine_03_versionTravail.tif
-81,Bérénice,Vialard,Sacré | peinture | voile | ,Strasbourg,2021-12-11,19:57:19,25,1/60,93,/STRASBOURG_VIALARD_Berenice_01_versionTravail.tif
-82,Rose,Collin,Projection | Eau | Arbre | ,Mulhouse,2021-12-21,10:30:33,350,1/40,82,/MULHOUSE_COLLIN_Rose_03_versionTravail.tif
-84,Youngjoo,Kang,laser | planétaire | lune | ,Strasbourg,2021-12-16,16:30:22+01:00, , ,75,/STRASBOURG_KANG_Youngjoo_02_versionTravail.tif
-87,Mona,Chevalier,Astre | Disque lunaire | Incandescant | ,Mulhouse,2021-11-26,22:45:12,350,1/3200,82,/MULHOUSE_CHEVALIER_Mona_04_versionTravail.tif
-87,Youngjoo,Kang,laser | planétaire | lune | ,Strasbourg,2021-12-16,16:30:22+01:00, , ,61,/STRASBOURG_KANG_Youngjoo_05_versionTravail.tif
-92,Zifei,Zhuang,Vidéo | Mouvement | Corps | ,Nancy,2021-10-20,14:21:40+02:00, , ,125,/NANCY_ZHUANG_Zifei_01_versionTravail.tif
-92,Teano + Valérian,Horn + Gago-Beaufour,Stigmate | Prospection | Cosmos | ,Strasbourg + Reims,2022-02-04,10:59:55+01:00, , ,0,/STRASBOURG_HORN_Teano_01_versionTravail.tif
-93,Louise,Peyras,Désert | crépuscule | lunaire | ,Metz,2021-10-21,04:38:30,50,1/500,85,/METZ_PEYRAS_Louise_versionTravail.tif
-93,Sangal,Ntamack,reflet | corps | deuil | ,Mulhouse,2021-11-05,17:48:37,350,1/160,29,/MULHOUSE_NTAMACK_Sangal_02_versionTravail.tif
-93,Léa,Govignon,harmonie | des | sphères | ,Strasbourg,2021-12-12,12:18:06,550,1/20,121,/STRASBOURG_GOVIGNON_Lea_04_versionTravail.tif
-95,Rose,Collin,Projection | Ombre | Lumière | ,Mulhouse,2021-12-21,10:45:31,350,1/40,106,/MULHOUSE_COLLIN_Rose_04_versionTravail.tif
-98,Léa,Byczinski,sève | marée noire | espace | ,Mulhouse,2021-11-07,18:22:07,350,1/60,79,/MULHOUSE_BYCZINSKI_Lea_04_versionTravail.tif
-99,Youngjoo,Kang,laser | planétaire | lune | ,Strasbourg,2022-01-03,15:50:35, , ,119,/STRASBOURG_KANG_Youngjoo_04_versionTravail.tif
-101,Ludmila,VORONITCH,Mystique | Ville | Contraste | ,Nancy,Inconnu,Inconnu,48000000,125/10000,0,/NANCY_VORONITCH_Ludmila_02_versionTravail.jpg
-102,Jeanne,Peineau,Reflet | Ombre | Corps | ,Mulhouse,2022-01-06,10:51:08+01:00, , ,0,/MULHOUSE_PEINEAU_JEANNE_03_versionTravail.tif
-102,Louise ,Schwartz-Régnier,fiction | science | cosmos | ,Strasbourg,2022-02-22,12:42:44+01:00, , ,17,/STRASBOURG_SCHWARTZREGNIER_Louise_img3_versionTravail.tif
-104,Sangal,Ntamack,vapeur | brume | fantôme | ,Mulhouse,2022-01-13,18:38:38+01:00, , ,0,/MULHOUSE_NTAMACK_Sangal_04_versionTravail.tif
-107,Claire,Tater,paysage | lumière | chez-moi | ,Reims,2022-01-10,22:30:35,50,1/80,249,/REIMS_TATER_Claire_02_versionTravail.tif
-107,Claire,Tater,poussière | constellation | piano | ,Reims,2022-01-10,22:07:05,50,1/4,42,/REIMS_TATER_Claire_03_versionTravail.tif
-108,Jane,Bidet,Un Homme | La lune | La terre | ,Mulhouse,2021-11-14,19:59:27+01:00, , ,26,/MULHOUSE_BIDET_JANE_01_versionTravail.tif
-110,Claire,Tater,Paysage | lumière | chez-moi | ,Reims,2022-01-10,22:28:43,50,1/100,224,/REIMS_TATER_Claire_01_versionTravail.tif
-111,Jeanne,Tasté,Seuil | Constellation | Imaginaire | ,Mulhouse,2021-12-07,12:19:42,800,1/15,34,/MULHOUSE_TASTE_Jeanne_02_versionTravail.tif
-112,Jeanne,Taste,Seuil | Constellation | Imaginaire | ,Mulhouse,2021-12-07,12:19:42,800,1/15,35,/MULHOUSE_TASTE_Jeanne_01_versionTravail.tif
-112,Jeanne,Tasté,Seuil | Constellation | Imaginaire | ,Mulhouse,2021-12-07,12:19:42,800,1/15,27,/MULHOUSE_TASTE_Jeanne_03_versionTravail.tif
-113,Philippine,Talamona,Vague | Fusion | Fictionnel | ,Strasbourg,2020-10-23,20:03:17,0,1/166,59,/STRASBOURG_TALAMONA_Philippine_04_versionTravail.tif
-114,Alicia,Charrier,Suspension | inversion | gravité | ,Metz,2021-10-18,10:03:44,460,1/60,44,/METZ_CHARRIER_Alicia_versionTravail.tif
-114,Teano + Valérian,Horn + Gago-Beaufour,cosmos | prospection | verdun | ,Strasbourg + Reims,,, , ,0,/STRASBOURG_HORN_Teano_03_versionTravail.jpg
-115,Zifei,Zhuang,Vidéo | Mouvement | Rotation | ,Nancy,2021-12-15,14:17:11+01:00, , ,167,/NANCY_ZHUANG_Zifei_02_versionTravail.tif
-120,Ludmila,VORONITCH,Mystique | Contraste | Machines | ,Nancy,Inconnu,Inconnu,16000000,125/10000,0,/NANCY_VORONITCH_Ludmila_01_versionTravail.jpg
-123,Nina,Boudjelthia-Chambon,Lune | organique | typologie | ,Mulhouse,2021-12-14,10:13:59+01:00, , ,0,/MULHOUSE_BOUDJELTHIA-CHAMBON_Nina_01_versionTravail.tif
-123,Nina,Boudjelthia-Chambon,Constellation | corps célestes | taches | ,Mulhouse,2022-02-01,12:08:50+01:00, , ,26,/MULHOUSE_BOUDJELTHIA-CHAMBON_Nina_02_versionTravail.tif
-123,Nina,Boudjelthia-Chambon,Constellation | corps célestes | voie lacté | ,Mulhouse,2022-02-01,12:08:50+01:00, , ,24,/MULHOUSE_BOUDJELTHIA-CHAMBON_Nina_04_versionTravail.tif
-124,Nina,Boudjelthia-Chambon,Mozaique | lune | typologie | ,Mulhouse,2021-12-14,10:13:59+01:00, , ,0,/MULHOUSE_BOUDJELTHIA-CHAMBON_Nina_03_versionTravail.tif
-125,Zoée,Dahan,satellite | etendue | solitude | ,Mulhouse,2021-03-22,17:31:46,1050,1/60,0,/MULHOUSE_DAHAN_Zoee_03_versionTravail.tif
-126,Jeanne,Peineau,Ame | Lumière | Apparition | ,Mulhouse,2021-12-10,14:30:38+01:00, , ,0,/MULHOUSE_PEINEAU_JEANNE_02_versionTravail.tif
-127,Teano + Valérian,Horn + Gago-Beaufour,cosmos | prospection | verdun | ,Strasbourg + Reims,,, , ,0,/STRASBOURG_HORN_Teano_04_versionTravail.jpg
-128,Elias,Hosni,Inconnu,mulhouse,2021-11-29,22:02:39,1050,1/1,122,/MULHOUSE_HOSNI_ELIAS_01_versionTravail.tif
-131,Zoée,Dahan,poussière | desert | satellite | ,Mulhouse,2009-01-15,20:26:11,400,1/350,0,/MULHOUSE_DAHAN_Zoee_01_versionTravail.tif
-132,Jeanne,Peineau,Corps | Halo | Lumière | ,Mulhouse,2020-11-29,16:34,170,1/8,0,/MULHOUSE_PEINEAU_JEANNE_01_versionTravail.tif
-132,Camille,Dumay,Songe | Trouble | Spectre | ,Reims,2020-10-16,10:25:17Z, , ,50,/REIMS_DUMAY_Camille_LEGOFF_Rose_02_versionTravail.tif
-133,Sangal,Ntamack,ondes | entre-voir | lueur | ,Mulhouse,2021-11-05,17:21:20,920,1/100,21,/MULHOUSE_NTAMACK_Sangal_01_versionTravail.tif
-137,Manon,Brunel,Objet | Représentation | Corps céleste | ,Strasbourg,2022-01-21,16:56:07,600,1/125,94,/STRASBOURG_BRUNEL_MANON_03_versionTravail.tif
-142,Florent,Bricout,Roche | Chute | Météore | ,Strasbourg,2016-01-27,01:51:46,350,1/160,0,/STRASBOURG_BRICOUT_Florent_01_versionTravail.tif
-142,Florent,Bricout,Roche | Chute | Météore | ,Strasbourg,2016-01-27,01:51:46,350,1/160,0,/STRASBOURG_BRICOUT_Florent_02_versionTravail.tif
-143,Zoée,Dahan,champs | poussière | paillette | ,Mulhouse,2009-01-15,20:26:06,550,1/350,0,/MULHOUSE_DAHAN_Zoee_04_versionTravail.tif
-143,Sacha,Bousquet,Mouvement | Corps | Existence | ,Reims,2022-01-18,13:00:14+01:00, , ,254,/REIMS_BOUSQUET_Sacha_01_versionTravail.tif
-146,Youngjoo,Kang,laser | planétaire | lune | ,Strasbourg,2021-12-06,17:12:09, , ,81,/STRASBOURG_KANG_Youngjoo_03_versionTravail.tif
-147,Marguerite,Hollmaert,Fragment | Flux | Etrange | ,Reims,2021-12-31,16:05:16,20,1/30,19,/REIMS_HOLLMAERT_Marguerite_01_versionTravail.tif
-148,Audrey,Borja,Obervatoir | Univers | Nature-morte | ,Mulhouse,2022-01-07,11:27:44+01:00, , ,0,/MULHOUSE_BORJA_Audrey_01_versionTravail.tif
-148,Léa,Panijel,documentaire | fiction | abandon,Strasbourg,2022-01-23,19:53:33+01:00, , ,0,/STRASBOURG_PANIJEL_lea_1_versionTravail.tif
-150,Camille,Dumay,Songe | Trouble | Spectre | ,Reims,2020-10-16,10:25:13Z, , ,77,/REIMS_DUMAY_Camille_LEGOFF_Rose_01_versionTravail.tif
-151,Emma,Escat,corps | double exposition | fantôme | ,Épinal,2021-12-09,09:15:41+01:00, , ,0,/EPINAL_ESCAT_Emma_01_versionTravail.tif
-151,Beausoleil,Sarah,Glitch | erreur | numérique | ,Metz,2021-12-12,19:30:14, , ,60,/METZ_BEAUSOLEIL_Sarah_versionTravail.tif
-151,Camille,Grazziano,Envol | fantôme | double | ,Metz,2022-01-11,09:29:06, , ,10,/METZ_GRAZZIANO_Camille_versionTravail.tif
-151,Zoée,Dahan,rocheuses | metal | satellite | ,Mulhouse,2009-02-04,00:05:59,550,1/180,0,/MULHOUSE_DAHAN_Zoee_02_versionTravail.tif
-151,Drice,Ducongé dos Santos,Ecran | Aurore | Pixel | ,Strasbourg,2021-12-24,00:55,100,1/125,54,/STRASBOURG_DUCONGE-DOS-SANTOS_Drice_02_Versiondetravail.tif
-153,Manon,Brunel,Objet | Représentation | Corps céleste | ,Strasbourg,Inconnu,Inconnu,600,10/1250,97,/STRASBOURG_BRUNEL_MANON_04_versionTravail.jpg
-153,Philippine,Talamona,Vague | Nostalgie | Effacé | ,Strasbourg,2020-10-22,20:50:31,0,1/1069,65,/STRASBOURG_TALAMONA_Philippine_03_versionTravail.tif
-156,Maya,Cyclarem,e | r | r | e | r | ,Mulhouse,2021-02-19,21:44:36,600,1/50,176,/MULHOUSE_DOUTRELANT_Maya_04_versionTravail.tif
-156,Zifei,Zhuang,Lumière | Mouvement | Celèste | ,Nancy,2022-01-06,01:29:38+01:00, , ,48,/NANCY_ZHUANG_Zifei_04_versionTravail.tif
-159,Zifei,Zhuang,Vidéo | Mouvement | Cleste | ,Nancy,2021-11-24,21:47:00+01:00, , ,23,/NANCY_ZHUANG_Zifei_03_versionTravail.tif
-159,Philippine,Talamona,Rayonnement | Eclat | Incendier | ,Strasbourg,2020-10-23,02:45:38,0,1/7845,39,/STRASBOURG_TALAMONA_Philippine_01_versionTravail.tif
-165,Léa,Panijel,documentaire | fiction | abandon,Strasbourg,2022-01-23,19:57:14+01:00, , ,0,/STRASBOURG_PANIJEL_lea_3_versionTravail.tif
-166,Théo,Ribeiro,Portrait | mouche | étrangeté | ,Metz,2021-12-13,10:53:42, , ,86,/METZ_RIBEIRO_Theo_versionTravail.tif
-166,Maya,Cyclarem,divinité | supériorité | compréhention | ,Mulhouse,2020-06-29,21:52:26,46,1/15,122,/MULHOUSE_DOUTRELANT_Maya_02_versionTravail.tif
-166,Jeanne,Peineau,Fantôme | Lumière | Corps | ,Mulhouse,2022-01-12,15:06:45+01:00, , ,0,/MULHOUSE_PEINEAU_JEANNE_04_versionTravail.tif
-166,M,a,2021 | numérique | manon.brunel@hear.fr | ,Strasbourg,2022-01-21,16:13:40,600,10/1250,63,/STRASBOURG_BRUNEL_MANON_01_versionTravail.tif
-170,Rémi,Brimboeuf,Organique | Fluide | Inversion | ,Strasbourg,2021-12-02,20:02:43,35,1/50,131,/STRASBOURG_BRIMBOEUF_Remi_01_versionTravail.tif
-172,Jisu,Lee,Nudité | introspection | douceur | ,Metz,2021-10-18,19:12:53,32,1/30,65,/METZ_LEE_JIsu_versionTravail.tif
-174,Rémi,Brimboeuf,Organique | Fluide | Inversion | ,Strasbourg,2021-12-02,20:08:28,35,1/50,74,/STRASBOURG_BRIMBOEUF_Remi_02_versionTravail.tif
-175,Isabelle,Audoineau,organique | espace | rencontre | ,Mulhouse,2022-01-24,09:45:41,24,1/250,146,/MULHOUSE_AUDOINEAU_Isabelle_03_versionTravail.tif
-175,Drice,Ducongé dos Santos,Ecran | Aurore | Pixel | ,Strasbourg,2021-12-24,00:55:41,100,1/125,38,/STRASBOURG_DUCONGE-DOS-SANTOS_Drice_04_Versiondetravail.tif
-175,Teano + Valérian,Horn + Gago-Beaufour,cosmos | Verdun | météorite | ,Strasbourg + Reims,,, , ,0,/STRASBOURG_HORN_Teano_05_versionTravail.jpg
-176,Maya,Cyclarem,enfant | indigo | façinant | ,Mulhouse,2021-08-05,20:08:20,50,1/60,188,/MULHOUSE_DOUTRELANT_Maya_01_versionTravail.tif
-177,Maya,Cyclarem,envolé | legerté | irréel | ,Mulhouse,2022-01-05,13:42:32,50,1/250,24,/MULHOUSE_DOUTRELANT_Maya_03_versionTravail.tif
-177,Elisabeth,Nguyen,Visqueux | Cheveux | Organique | ,Nancy,2021-11-19,12:57:50,50,1/200,145,/NANCY_NGUYEN_Elisabeth_02_versionTravail.tif
-177,Rémi,Brimboeuf,Organique | Fluide | Inversion | ,Strasbourg,2021-12-02,20:06:59,35,1/50,97,/STRASBOURG_BRIMBOEUF_Remi_03_versionTravail.tif
-181,Manon,Brunel,Objet | Représentation | Corps céleste | ,Strasbourg,2022-01-21,15:57:01,600,10/5000,58,/STRASBOURG_BRUNEL_MANON_02_versionTravail.tif
-182,Philippine,Talamona,Rayonnement | Brûlure | Eclat | ,Strasbourg,2020-10-23,02:46:52,0,1/7845,34,/STRASBOURG_TALAMONA_Philippine_02_versionTravail.tif
-186,Elisabeth,Nguyen,Eau | Terre en vue | Atmosphère | ,Nancy,2021-11-19,12:56:23,50,1/200,243,/NANCY_NGUYEN_Elisabeth_01_versionTravail.tif
-196,Drice,Ducongé dos Santos,Ecran | Aurore | Pixel | ,Strasbourg,2021-12-24,00:01:36,100,1/320,66,/STRASBOURG_DUCONGE-DOS-SANTOS_Drice_01_Versiondetravail.tif
-201,Gauvain,Pedoni,Surexposition | Fête | Elevation | ,Nancy,2021-11-18,11:16:31,28,1/200,12,/NANCY_PEDONI_Gauvain_01_versionTravail.tif
-206,Gauvain,Pedoni,Surexposition | Fête | Elevation | ,Nancy,2021-11-18,11:14:22,28,1/200,10,/NANCY_PEDONI_Gauvain_04_versionTravail.tif
-207,Gauvain,Pedoni,Surexposition | Fête | Elevation | ,Nancy,2021-11-18,11:14:25,28,1/200,11,/NANCY_PEDONI_Gauvain_03_versionTravail.tif
-210,Gauvain,Pedoni,Surexposition | Fête | Elevation | ,Nancy,2021-11-18,11:14:45,28,1/200,10,/NANCY_PEDONI_Gauvain_02_versionTravail.tif
-215,Jules,Labatut,météorite | spectre coloré | 3D | ,Strasbourg,2021-12-23,14:25:32+01:00, , ,88,/STRASBOURG_LABATUT_Jules_01_versionTravail.tif
-217,Drice,Ducongé dos Santos,Ecran | Aurore | Pixel | ,Strasbourg,2021-12-24,00:59:44,100,1/125,131,/STRASBOURG_DUCONGE-DOS-SANTOS_Drice_03_Versiondetravail.tif
-223,Isabelle,Audoineau,organique | espace | extra-terrestre | ,Mulhouse,2022-01-03,09:57:29,18,1/1000,24,/MULHOUSE_AUDOINEAU_Isabelle_02_versionTravail.tif
-237,Jules,Labatut,amarssisage | rover | 3D | ,Strasbourg,2021-12-23,14:25:32+01:00, , ,24,/STRASBOURG_LABATUT_Jules_02_versionTravail.tif
-254,Elisabeth,Nguyen,Paysage | Eau | Imaginaire | ,Nancy,2021-11-19,12:57:50,50,1/200,130,/NANCY_NGUYEN_Elisabeth_03_versionTravail.tif
+luminosite,prenom,nom,mots,ecole,date,heure,ouv.,vitesse,saturation,fichier,taille
+0,Capucine,Moyroud,pouponière d'étoile | poussière d'étoile | pluie d'étoile | ,Mulhouse,2022-01-18,13:24:59,60,1/40,0,/MULHOUSE_MOYROUD_Capucine_04_versionTravail.tif,11
+10,Corentin,Ferry,Lunaire | planisphère | mise en scène | ,Metz,2021-12-04,14:57:01,40,1/200,55,/METZ_FERRY_Corentin_versionTravail.tif,19
+12,Colin,Katharina Élisa,intimité | corps | composition | ,Épinal,2022-01-06,16:44:20+01:00, , ,48,/EPINAL_COLIN_Katharina_02_versionTravail.tif,19
+13,Collin,Rose,Vert | Lumière | Feuillage | ,Mulhouse,2021-10-22,12:31:14,350,1/200,100,/MULHOUSE_COLLIN_Rose_01_versionTravail.tif,15
+13,Chiara,Schwartz,Voyageuses | ombres | abandon | ,Strasbourg,2022-01-25,11:12:06+01:00, , ,27,/STRASBOURG_SCHWARTZ_Chiara_01_versionTravail.tif,12
+14,Assya,Agbere,lumière | reflet | astre | ,Mulhouse,2022-01-05,20:11:07,55,1/60,115,/MULHOUSE_AGBERE_Assya_02_versionTravail.tif,13
+15,Mesnier,Violette,Élévation | mouvement | tension | Sténopé | temps d’exposition 10 secondes | Série de 25 sténopés dont 10 de retenus | tailles et formes variables | 10 secondes à 3 minutes 30 | ,Épinal,2022-01-23,23:13:17+01:00, , ,0,/EPINAL_MESNIER_Violette_01_versionTravail.tif,23
+15,Léa,Govignon,Kepler | visage | musique | ,Strasbourg,2021-12-12,18:01:06,550,1/60,121,/STRASBOURG_GOVIGNON_Lea_06_versionTravail.tif,9
+15,Chiara,Schwartz,Voyageuses | ombres | abandon | ,Strasbourg,2021-10-14,12:10:04+02:00, , ,0,/STRASBOURG_SCHWARTZ_Chiara_03_versionTravail.tif,20
+19,Audrey,Borja,Eclipse | Soleil | Lune | ,Mulhouse,2022-01-07,14:59:44+01:00, , ,0,/MULHOUSE_BORJA_Audrey_02_versionTravail.tif,18
+20,Youna,Dacher,élement | présent | lien | ,Reims,2021-01-18,11:58:07,28,1/320,70,/REIMS_DACHER__Youna_01_versionTravail.tif,16
+21,Isaac,Elbaz,entité | empreinte | passé. | ,Reims,2022-01-23,17:56:13+01:00, , ,48,/REIMS_ELBAZ_Isaac_01_versionTravail.tif,17
+22,Assya,Agbere,lumière | reflet | astre | ,Mulhouse,2021-12-08,18:34:09,55,1/60,94,/MULHOUSE_AGBERE_Assya_01_versionTravail.tif,18
+22,Bérénice,Vialard,Sacré | peinture | voile | ,Strasbourg,2021-12-11,20:10:44,18,1/60,83,/STRASBOURG_VIALARD_Berenice_02_versionTravail.tif,11
+23,Aurélia,Budin,corps | fantôme | néant | ,Épinal,2021-12-09,10:44:29+01:00, , ,0,/EPINAL_BUDIN_Aurelia_01_versionTravail.tif,24
+25,Aline,Ricci,Plume | rituel | identité | ,Metz,2010-07-04,00:31:01,42,1/4,0,/METZ_RICCI_Aline_versionTravail.tif,11
+26,Louise,Assouly,Piège | Capture | Braconnage | ,Mulhouse,2022-01-05,14:23:26+01:00, , ,0,/MULHOUSE_ASSOULY_Louise_05_versionTravail.tif,23
+26,Mona,Chevalier,Fragment | lueur | roche | ,Mulhouse,2021-10-29,16:16:41+02:00, , ,0,/MULHOUSE_CHEVALIER_Mona_02_versionTravail.tif,23
+27,Soline,Pin,plume | flottement | aérien | ,Metz,2021-10-05,09:10:26,554,1/160,0,/METZ_PIN_Soline_versionTravail.tif,10
+27,Léa,Byczinski,planète | eau | rouge | ,Mulhouse,2022-01-24,16:29:59,1050,1/400,189,/MULHOUSE_BYCZINSKI_Lea_03_versionTravail.tif,23
+28,Jade,Jumeaux,Obscur | translucide | eau | ,Nancy,2021-12-14,11:53:41+01:00, , ,0,/NANCY_JUMEAUX_Jade_01.tif_versionTravail.tif,10
+29,Zoé ,Vincent ,forêt | aube | ,Strasbourg,2021-11-11,07:55:32,830,3,134,/STRASBOURG_VINCENT_Zoe_01_versionTravail.tif,21
+30,Hugo, Titelein,Liminal | Autel | Espace-temps | ,Reims,2021-02-22,02:23,230,1/8,0,/REIMS_TITELEIN_Hugo_01__versionTravail.tif,18
+31,Vincent,Ineichen,chimique | organique | poétique | ,Reims,2021-05-21,18:20:51+02:00, , ,0,/Reims_INEICHEN_Vincent_ 01_versionTravail.tif,14
+31,Léa,Govignon,Harmonices | mundi | Kepler | ,Strasbourg,2021-12-12,17:55:24,550,1/60,66,/STRASBOURG_GOVIGNON_Lea_07_versionTravail.tif,12
+32,Nathan,Boubet,comète | envol | espace | ,Mulhouse,2016-02-09,22:53:03,45,1/125,21,/MULHOUSE_BOUBET_Nathan_02_versionTravail.tif,20
+34,Zoé ,Vincent ,foret | nuit | velo | ,Strasbourg,Inconnu,Inconnu,630,1/60,61,/STRASBOURG_VINCENT_zoe_03_versionTravail.jpg,14
+34,Zoé ,Vincent ,forêt | nuit | fete | ,Strasbourg,Inconnu,Inconnu,630,1/60,48,/STRASBOURG_VINCENT_zoe_04_versionTravail.jpg,10
+37,Colin,Katharina Élisa,intimité | corps | composition | ,Épinal,2022-01-07,01:49:12+01:00, , ,74,/EPINAL_COLIN_Katharina_01_versionTravail.tif,21
+37,Louise,Assouly,Piège | Capture | Braconnage | ,Mulhouse,2022-01-07,13:14:52+01:00, , ,0,/MULHOUSE_ASSOULY_Louise_03_versionTravail.tif,14
+37,Laurine,Dicop,Nature | roche | paréidolie | ,Mulhouse,2021-10-22,13:12:42,5000,1/60,91,/MULHOUSE_DICOP_Laurine_03_versionTravail.tif,15
+37,Rémi,Brimboeuf,Temporalité | Montage | Attraction | ,Strasbourg,Inconnu,Inconnu, , ,207,/STRASBOURG_BRIMBOEUF_Remi_04_versionTravail.jpg,11
+40,Suzon,Eugé,Portrait | intimité | vaporeux | ,Metz,2022-01-11,10:19:13, , ,38,/METZ_EUGE_Suzon_versionTravail.tif,24
+40,Chiara,Schwartz,Voyageuses | ombres | abandon | ,Strasbourg,2020-09-23,15:53:47+02:00, , ,0,/STRASBOURG_SCHWARTZ_Chiara_04_versionTravail.tif,15
+41,Nathan,Boubet,comète | envol | espace | ,Mulhouse,2016-02-09,22:56:08,46,1/125,5,/MULHOUSE_BOUBET_Nathan_01_versionTravail.tif,17
+41,Emilie,Gentilini-Garsiglia,courbe | dynamique | aspérité | ,Mulhouse,2021-11-04,16:24:37,600,1/125,0,/MULHOUSE_GENTILINI-GARSIGLIA_Emilie_04_versionTravail.tif,11
+41,Zoé ,Vincent ,forêt | nuit | ,Strasbourg,Inconnu,Inconnu,830,3,73,/STRASBOURG_VINCENT_zoe_02_versionTravail.jpg,20
+42,Audrey,Borja,Astronaute | Voyage | Spatiale | ,Mulhouse,2022-01-13,19:52:02+01:00, , ,0,/MULHOUSE_BORJA_Audrey_03_versionTravail.tif,9
+43,Mona,Chevalier,Lueur | roche | sélène | ,Mulhouse,2021-11-26,22:41:18,350,1/2000,76,/MULHOUSE_CHEVALIER_Mona_01_versionTravail.tif,21
+44,Nathan,Boubet,comète | envol | espace | ,Mulhouse,2016-02-09,22:40:25,56,1/125,25,/MULHOUSE_BOUBET_Nathan_03_versionTravail.tif,11
+44,Rose,Collin,Lumière | Feuilles | Feuillage | ,Mulhouse,2021-10-22,13:08:18,350,1/200,116,/MULHOUSE_COLLIN_Rose_02_versionTravail.tif,19
+44,Laurine,Dicop,Paréidolie | nature | tronc | ,Mulhouse,2021-10-22,13:20:50,3700,1/60,0,/MULHOUSE_DICOP_Laurine_04_versionTravail.tif,13
+45,Assya,Agbere,lumière | reflet | astre | ,Mulhouse,2022-01-05,20:13,55,1/60,129,/MULHOUSE_AGBERE_Assya_03_versionTravail.tif,8
+45,Clara-Louise,Hoffsaes,Inconnu,Reims,2022-01-16,21:49:05,900,1/30,71,/Reims_HOFFSAES_ClaraLouise_01_versionTravail.tif,20
+45,Chiara,Schwartz,Voyageuses | ombres | abandon | ,Strasbourg,2020-09-23,15:53:50+02:00, , ,0,/STRASBOURG_SCHWARTZ_Chiara_02_versionTravail.tif,9
+47, Martin, Gouriou,Disparition | Aladin | 3D,Strasbourg,2022-02-02,17:37:29+01:00, , ,77,/STRASBOURG_GOURIOU_Martin_3_versionTravail.tif,22
+47,Bérénice,Vialard,Sacré | peinture | voile | ,Strasbourg,2021-12-23,23:56:13,18,1/60,140,/STRASBOURG_VIALARD_Berenice_04_versionTravail.tif,8
+51,Capucine,Moyroud,pouponière d'étoile | pluie d'étoile | poussière d'étoile | ,Mulhouse,2022-01-18,13:23:31,60,1/40,0,/MULHOUSE_MOYROUD_Capucine_02.tiff_versionTravail.tif,23
+52,Laurine,Dicop,Paréidolie | nature | souche | ,Mulhouse,2021-12-17,16:54:16,3400,1/200,0,/MULHOUSE_DICOP_Laurine_02_versionTravail.tif,9
+53,Jade,Jumeaux,Corps | étrange | déconstruction | ,Nancy,2021-12-07,11:27:48,50,1/160,162,/NANCY_JUMEAUX_Jade_03.tif_versionTravail.tif,20
+54,Laurine,Dicop,Clair-obscur | nature | paréidolie | ,Mulhouse,2021-10-22,12:50:12,3200,1/60,0,/MULHOUSE_DICOP_Laurine_01_versionTravail.tif,13
+54,Martin, Gouriou,Disparition | Aladin | 3D,Strasbourg,2022-02-02,17:34:55+01:00, , ,73,/STRASBOURG_GOURIOU_Martin_1_versionTravail.tif,10
+55,Lou,Favrau,Vertige | infini | soir | ,Reims,2021-11-12,17:42:39,5500,1/125,74,/REIMS_FAVREAU_Lou_02_versionTravail.tif,23
+55,Axel,Alousque,Émanation | Capture | Fantôme | ,Strasbourg,2022-02-02,17:20:18+01:00, , ,96,/STRASBOURG_ALOUSQUE_Axel_02_versionTravail.tif,17
+56,Capucine,Moyroud,pouponière d'étoile | pluie d'étoile | poussière d'étoile | ,Mulhouse,2022-01-18,13:20:58,60,1/40,0,/MULHOUSE_MOYROUD_Capucine_01_versionTravail.tif,9
+57, Martin, Gouriou,Disparition | Aladin | 3D,Strasbourg,2022-02-02,16:09:03+01:00, , ,80,/STRASBOURG_GOURIOU_Martin_2_versionTravail.tif,21
+58,Léa,Panijel,documentaire | fiction | abandon,Strasbourg,2022-01-23,19:55:17+01:00, , ,0,/STRASBOURG_PANIJEL_lea_2_versionTravail.tif,12
+58,Louise,Schwartz-Régnier,fiction | science | cosmos | ,Strasbourg,2022-02-22,12:42:44+01:00, , ,13,/STRASBOURG_SCHWARTZREGNIER_Louise_img2_versionTravail.tif,14
+58,Bérénice,Vialard,Sacré | peinture | voile | ,Strasbourg,2021-12-23,23:58:03,18,1/60,86,/STRASBOURG_VIALARD_Berenice_03_versionTravail.tif,8
+59,Léa,Govignon,Harmonices | Mundi | Processing | ,Strasbourg,2021-12-12,18:07:40,180,01/01/60,152,/STRASBOURG_GOVIGNON_Lea_03_versionTravail.tif,20
+60,Léa,Byczinski,lumière | motif | abstraction | ,Mulhouse,2022-01-24,13:15:23,1050,1/640,49,/MULHOUSE_BYCZINSKI_Lea_02_versionTravail.tif,18
+60,Louise,Schwartz-Régnier,fiction | science | cosmos | ,Strasbourg,2022-02-22,12:42:44+01:00, , ,27,/STRASBOURG_SCHWARTZREGNIER_Louise_img1_versionTravail.tif,8
+61,Gabriella,Dabetic,Envol | flou | suspens | ,Metz,2021-11-02,16:05:55,270,1/8,0,/METZ_DABETIC_Gabriella_versionTravail.tif,21
+61,Louise,Assouly,Piège | Capture | Braconnage | ,Mulhouse,2022-05-01,11:43:44+02:00, , ,0,/MULHOUSE_ASSOULY_Louise_04_versionTravail.tif,14
+61,Léa,Byczinski,réfléxion | lumière | paysage lunaire | ,Mulhouse,2022-01-24,16:02:06,1050,1/4000,113,/MULHOUSE_BYCZINSKI_Lea_01_versionTravail.tif,18
+63,Jane,Bidet,au delà | la terre | la lumière | ,Mulhouse,2022-01-15,15:07:11+01:00, , ,64,/MULHOUSE_BIDET_JANE_02_versionTravail.tif,17
+63,Ludmila,VORONITCH,Forces | Contraste | Mystique | ,Nancy,Inconnu,Inconnu,17000000,16666/1000000,0,/NANCY_VORONITCH_Ludmila_03_versionTravail.jpg,17
+64,Emilie,Gentilini-Garsiglia,courbe | dynamique | aspérité | ,Mulhouse,2021-11-04,17:22:21,650,1/125,9,/MULHOUSE_GENTILINI-GARSIGLIA_Emilie_02_versionTravail.tif,18
+64,Paloma,Jan,carnation | contraste | temps | ,Reims,2022-01-26,18:05:10+01:00, , ,62,/REIMS_JAN_Paloma_01_versionTravail.tif,18
+68,Axel,Alousque,Émanation | Capture | Fantôme | ,Strasbourg,2022-02-02,17:11:32+01:00, , ,110,/STRASBOURG_ALOUSQUE_Axel_01_versionTravail.tif,18
+69,Rose,Le Goff,Gravité | Attraction | Relation | ,Reims,2019-11-20,15:21:22,1050,1/25,41,/REIMS_LEGOFF_ROSE_01_versionTravail.tif,12
+70,Valentine,Poulet,Extase | papillon | nuit | ,Metz,2021-11-10,12:02:33, , ,72,/METZ_POULET_Valentine_versionTravail.tif,8
+70,Eva,Chanoir,Inconnu,Reims,2022-01-14,16:23:56+01:00, , ,8,/REIMS_CHANOIR_Eva_versionTravail.tif,21
+71,Isabelle,Audoineau,organique | spectre | espace | ,Mulhouse,2022-01-22,17:32:20+01:00, , ,77,/MULHOUSE_AUDOINEAU_Isabelle_01_versionTravail.tif,21
+71,Youngjoo,Kang,laser | planétaire | lune | ,Strasbourg,2021-12-16,16:30:22+01:00, , ,58,/STRASBOURG_KANG_Youngjoo_01_versionTravail.tif,10
+72,Louise,Assouly,Piège | Capture | Braconnage | ,Mulhouse,2021-03-03,03:12:56+01:00, , ,0,/MULHOUSE_ASSOULY_Louise_02_versionTravail.tif,20
+75,Jade,Jumeaux,Corps | étrange | déconstruction | ,Nancy,2021-12-07,11:25:10,50,1/160,146,/NANCY_JUMEAUX_Jade_02.tif_versionTravail.tif,8
+76,Emilie,Gentilini-Garsiglia,courbe | trous noir | aspérité | ,Mulhouse,2021-11-04,17:22:30,650,1/125,10,/MULHOUSE_GENTILINI-GARSIGLIA_Emilie_01_versionTravail.tif,23
+77,Mona,Chevalier,apparition | silhouette | lueur | ,Mulhouse,2022-01-06,14:47:14+01:00, , ,126,/MULHOUSE_CHEVALIER_Mona_03_versionTravail.tif,21
+80,Sangal,Ntamack,delta | mars | eau | ,Mulhouse,2022-01-13,18:12:42+01:00, , ,0,/MULHOUSE_NTAMACK_Sangal_03_versionTravail.tif,9
+81,Emilie,Gentilini-Garsiglia,courbe | dynamique | aspérité | ,Mulhouse,2021-11-04,16:27:12,600,1/125,0,/MULHOUSE_GENTILINI-GARSIGLIA_Emilie_03_versionTravail.tif,24
+81,Capucine,Moyroud,pluie d'étoile | poussière d'étoile | pouponière d'étoile | ,Mulhouse,2022-01-18,13:24:16,60,1/40,0,/MULHOUSE_MOYROUD_Capucine_03_versionTravail.tif,17
+81,Bérénice,Vialard,Sacré | peinture | voile | ,Strasbourg,2021-12-11,19:57:19,25,1/60,93,/STRASBOURG_VIALARD_Berenice_01_versionTravail.tif,9
+82,Rose,Collin,Projection | Eau | Arbre | ,Mulhouse,2021-12-21,10:30:33,350,1/40,82,/MULHOUSE_COLLIN_Rose_03_versionTravail.tif,22
+84,Youngjoo,Kang,laser | planétaire | lune | ,Strasbourg,2021-12-16,16:30:22+01:00, , ,75,/STRASBOURG_KANG_Youngjoo_02_versionTravail.tif,9
+87,Mona,Chevalier,Astre | Disque lunaire | Incandescant | ,Mulhouse,2021-11-26,22:45:12,350,1/3200,82,/MULHOUSE_CHEVALIER_Mona_04_versionTravail.tif,20
+87,Youngjoo,Kang,laser | planétaire | lune | ,Strasbourg,2021-12-16,16:30:22+01:00, , ,61,/STRASBOURG_KANG_Youngjoo_05_versionTravail.tif,14
+92,Zifei,Zhuang,Vidéo | Mouvement | Corps | ,Nancy,2021-10-20,14:21:40+02:00, , ,125,/NANCY_ZHUANG_Zifei_01_versionTravail.tif,11
+92,Teano + Valérian,Horn + Gago-Beaufour,Stigmate | Prospection | Cosmos | ,Strasbourg + Reims,2022-02-04,10:59:55+01:00, , ,0,/STRASBOURG_HORN_Teano_01_versionTravail.tif,21
+93,Louise,Peyras,Désert | crépuscule | lunaire | ,Metz,2021-10-21,04:38:30,50,1/500,85,/METZ_PEYRAS_Louise_versionTravail.tif,18
+93,Sangal,Ntamack,reflet | corps | deuil | ,Mulhouse,2021-11-05,17:48:37,350,1/160,29,/MULHOUSE_NTAMACK_Sangal_02_versionTravail.tif,8
+93,Léa,Govignon,harmonie | des | sphères | ,Strasbourg,2021-12-12,12:18:06,550,1/20,121,/STRASBOURG_GOVIGNON_Lea_04_versionTravail.tif,19
+95,Rose,Collin,Projection | Ombre | Lumière | ,Mulhouse,2021-12-21,10:45:31,350,1/40,106,/MULHOUSE_COLLIN_Rose_04_versionTravail.tif,9
+98,Léa,Byczinski,sève | marée noire | espace | ,Mulhouse,2021-11-07,18:22:07,350,1/60,79,/MULHOUSE_BYCZINSKI_Lea_04_versionTravail.tif,20
+99,Youngjoo,Kang,laser | planétaire | lune | ,Strasbourg,2022-01-03,15:50:35, , ,119,/STRASBOURG_KANG_Youngjoo_04_versionTravail.tif,15
+101,Ludmila,VORONITCH,Mystique | Ville | Contraste | ,Nancy,Inconnu,Inconnu,48000000,125/10000,0,/NANCY_VORONITCH_Ludmila_02_versionTravail.jpg,9
+102,Jeanne,Peineau,Reflet | Ombre | Corps | ,Mulhouse,2022-01-06,10:51:08+01:00, , ,0,/MULHOUSE_PEINEAU_JEANNE_03_versionTravail.tif,20
+102,Louise ,Schwartz-Régnier,fiction | science | cosmos | ,Strasbourg,2022-02-22,12:42:44+01:00, , ,17,/STRASBOURG_SCHWARTZREGNIER_Louise_img3_versionTravail.tif,20
+104,Sangal,Ntamack,vapeur | brume | fantôme | ,Mulhouse,2022-01-13,18:38:38+01:00, , ,0,/MULHOUSE_NTAMACK_Sangal_04_versionTravail.tif,22
+107,Claire,Tater,paysage | lumière | chez-moi | ,Reims,2022-01-10,22:30:35,50,1/80,249,/REIMS_TATER_Claire_02_versionTravail.tif,8
+107,Claire,Tater,poussière | constellation | piano | ,Reims,2022-01-10,22:07:05,50,1/4,42,/REIMS_TATER_Claire_03_versionTravail.tif,19
+108,Jane,Bidet,Un Homme | La lune | La terre | ,Mulhouse,2021-11-14,19:59:27+01:00, , ,26,/MULHOUSE_BIDET_JANE_01_versionTravail.tif,12
+110,Claire,Tater,Paysage | lumière | chez-moi | ,Reims,2022-01-10,22:28:43,50,1/100,224,/REIMS_TATER_Claire_01_versionTravail.tif,16
+111,Jeanne,Tasté,Seuil | Constellation | Imaginaire | ,Mulhouse,2021-12-07,12:19:42,800,1/15,34,/MULHOUSE_TASTE_Jeanne_02_versionTravail.tif,13
+112,Jeanne,Taste,Seuil | Constellation | Imaginaire | ,Mulhouse,2021-12-07,12:19:42,800,1/15,35,/MULHOUSE_TASTE_Jeanne_01_versionTravail.tif,15
+112,Jeanne,Tasté,Seuil | Constellation | Imaginaire | ,Mulhouse,2021-12-07,12:19:42,800,1/15,27,/MULHOUSE_TASTE_Jeanne_03_versionTravail.tif,11
+113,Philippine,Talamona,Vague | Fusion | Fictionnel | ,Strasbourg,2020-10-23,20:03:17,0,1/166,59,/STRASBOURG_TALAMONA_Philippine_04_versionTravail.tif,20
+114,Alicia,Charrier,Suspension | inversion | gravité | ,Metz,2021-10-18,10:03:44,460,1/60,44,/METZ_CHARRIER_Alicia_versionTravail.tif,8
+114,Teano + Valérian,Horn + Gago-Beaufour,cosmos | prospection | verdun | ,Strasbourg + Reims,,, , ,0,/STRASBOURG_HORN_Teano_03_versionTravail.jpg,19
+115,Zifei,Zhuang,Vidéo | Mouvement | Rotation | ,Nancy,2021-12-15,14:17:11+01:00, , ,167,/NANCY_ZHUANG_Zifei_02_versionTravail.tif,10
+120,Ludmila,VORONITCH,Mystique | Contraste | Machines | ,Nancy,Inconnu,Inconnu,16000000,125/10000,0,/NANCY_VORONITCH_Ludmila_01_versionTravail.jpg,24
+123,Nina,Boudjelthia-Chambon,Lune | organique | typologie | ,Mulhouse,2021-12-14,10:13:59+01:00, , ,0,/MULHOUSE_BOUDJELTHIA-CHAMBON_Nina_01_versionTravail.tif,14
+123,Nina,Boudjelthia-Chambon,Constellation | corps célestes | taches | ,Mulhouse,2022-02-01,12:08:50+01:00, , ,26,/MULHOUSE_BOUDJELTHIA-CHAMBON_Nina_02_versionTravail.tif,24
+123,Nina,Boudjelthia-Chambon,Constellation | corps célestes | voie lacté | ,Mulhouse,2022-02-01,12:08:50+01:00, , ,24,/MULHOUSE_BOUDJELTHIA-CHAMBON_Nina_04_versionTravail.tif,12
+124,Nina,Boudjelthia-Chambon,Mozaique | lune | typologie | ,Mulhouse,2021-12-14,10:13:59+01:00, , ,0,/MULHOUSE_BOUDJELTHIA-CHAMBON_Nina_03_versionTravail.tif,17
+125,Zoée,Dahan,satellite | etendue | solitude | ,Mulhouse,2021-03-22,17:31:46,1050,1/60,0,/MULHOUSE_DAHAN_Zoee_03_versionTravail.tif,16
+126,Jeanne,Peineau,Ame | Lumière | Apparition | ,Mulhouse,2021-12-10,14:30:38+01:00, , ,0,/MULHOUSE_PEINEAU_JEANNE_02_versionTravail.tif,10
+127,Teano + Valérian,Horn + Gago-Beaufour,cosmos | prospection | verdun | ,Strasbourg + Reims,,, , ,0,/STRASBOURG_HORN_Teano_04_versionTravail.jpg,19
+128,Elias,Hosni,Inconnu,mulhouse,2021-11-29,22:02:39,1050,1/1,122,/MULHOUSE_HOSNI_ELIAS_01_versionTravail.tif,9
+131,Zoée,Dahan,poussière | desert | satellite | ,Mulhouse,2009-01-15,20:26:11,400,1/350,0,/MULHOUSE_DAHAN_Zoee_01_versionTravail.tif,23
+132,Jeanne,Peineau,Corps | Halo | Lumière | ,Mulhouse,2020-11-29,16:34,170,1/8,0,/MULHOUSE_PEINEAU_JEANNE_01_versionTravail.tif,11
+132,Camille,Dumay,Songe | Trouble | Spectre | ,Reims,2020-10-16,10:25:17Z, , ,50,/REIMS_DUMAY_Camille_LEGOFF_Rose_02_versionTravail.tif,24
+133,Sangal,Ntamack,ondes | entre-voir | lueur | ,Mulhouse,2021-11-05,17:21:20,920,1/100,21,/MULHOUSE_NTAMACK_Sangal_01_versionTravail.tif,12
+137,Manon,Brunel,Objet | Représentation | Corps céleste | ,Strasbourg,2022-01-21,16:56:07,600,1/125,94,/STRASBOURG_BRUNEL_MANON_03_versionTravail.tif,16
+142,Florent,Bricout,Roche | Chute | Météore | ,Strasbourg,2016-01-27,01:51:46,350,1/160,0,/STRASBOURG_BRICOUT_Florent_01_versionTravail.tif,8
+142,Florent,Bricout,Roche | Chute | Météore | ,Strasbourg,2016-01-27,01:51:46,350,1/160,0,/STRASBOURG_BRICOUT_Florent_02_versionTravail.tif,21
+143,Zoée,Dahan,champs | poussière | paillette | ,Mulhouse,2009-01-15,20:26:06,550,1/350,0,/MULHOUSE_DAHAN_Zoee_04_versionTravail.tif,9
+143,Sacha,Bousquet,Mouvement | Corps | Existence | ,Reims,2022-01-18,13:00:14+01:00, , ,254,/REIMS_BOUSQUET_Sacha_01_versionTravail.tif,19
+146,Youngjoo,Kang,laser | planétaire | lune | ,Strasbourg,2021-12-06,17:12:09, , ,81,/STRASBOURG_KANG_Youngjoo_03_versionTravail.tif,12
+147,Marguerite,Hollmaert,Fragment | Flux | Etrange | ,Reims,2021-12-31,16:05:16,20,1/30,19,/REIMS_HOLLMAERT_Marguerite_01_versionTravail.tif,18
+148,Audrey,Borja,Obervatoir | Univers | Nature-morte | ,Mulhouse,2022-01-07,11:27:44+01:00, , ,0,/MULHOUSE_BORJA_Audrey_01_versionTravail.tif,11
+148,Léa,Panijel,documentaire | fiction | abandon,Strasbourg,2022-01-23,19:53:33+01:00, , ,0,/STRASBOURG_PANIJEL_lea_1_versionTravail.tif,20
+150,Camille,Dumay,Songe | Trouble | Spectre | ,Reims,2020-10-16,10:25:13Z, , ,77,/REIMS_DUMAY_Camille_LEGOFF_Rose_01_versionTravail.tif,13
+151,Emma,Escat,corps | double exposition | fantôme | ,Épinal,2021-12-09,09:15:41+01:00, , ,0,/EPINAL_ESCAT_Emma_01_versionTravail.tif,10
+151,Beausoleil,Sarah,Glitch | erreur | numérique | ,Metz,2021-12-12,19:30:14, , ,60,/METZ_BEAUSOLEIL_Sarah_versionTravail.tif,21
+151,Camille,Grazziano,Envol | fantôme | double | ,Metz,2022-01-11,09:29:06, , ,10,/METZ_GRAZZIANO_Camille_versionTravail.tif,18
+151,Zoée,Dahan,rocheuses | metal | satellite | ,Mulhouse,2009-02-04,00:05:59,550,1/180,0,/MULHOUSE_DAHAN_Zoee_02_versionTravail.tif,13
+151,Drice,Ducongé dos Santos,Ecran | Aurore | Pixel | ,Strasbourg,2021-12-24,00:55,100,1/125,54,/STRASBOURG_DUCONGE-DOS-SANTOS_Drice_02_Versiondetravail.tif,16
+153,Manon,Brunel,Objet | Représentation | Corps céleste | ,Strasbourg,Inconnu,Inconnu,600,10/1250,97,/STRASBOURG_BRUNEL_MANON_04_versionTravail.jpg,16
+153,Philippine,Talamona,Vague | Nostalgie | Effacé | ,Strasbourg,2020-10-22,20:50:31,0,1/1069,65,/STRASBOURG_TALAMONA_Philippine_03_versionTravail.tif,18
+156,Maya,Cyclarem,e | r | r | e | r | ,Mulhouse,2021-02-19,21:44:36,600,1/50,176,/MULHOUSE_DOUTRELANT_Maya_04_versionTravail.tif,9
+156,Zifei,Zhuang,Lumière | Mouvement | Celèste | ,Nancy,2022-01-06,01:29:38+01:00, , ,48,/NANCY_ZHUANG_Zifei_04_versionTravail.tif,23
+159,Zifei,Zhuang,Vidéo | Mouvement | Cleste | ,Nancy,2021-11-24,21:47:00+01:00, , ,23,/NANCY_ZHUANG_Zifei_03_versionTravail.tif,23
+159,Philippine,Talamona,Rayonnement | Eclat | Incendier | ,Strasbourg,2020-10-23,02:45:38,0,1/7845,39,/STRASBOURG_TALAMONA_Philippine_01_versionTravail.tif,14
+165,Léa,Panijel,documentaire | fiction | abandon,Strasbourg,2022-01-23,19:57:14+01:00, , ,0,/STRASBOURG_PANIJEL_lea_3_versionTravail.tif,12
+166,Théo,Ribeiro,Portrait | mouche | étrangeté | ,Metz,2021-12-13,10:53:42, , ,86,/METZ_RIBEIRO_Theo_versionTravail.tif,9
+166,Maya,Cyclarem,divinité | supériorité | compréhention | ,Mulhouse,2020-06-29,21:52:26,46,1/15,122,/MULHOUSE_DOUTRELANT_Maya_02_versionTravail.tif,24
+166,Jeanne,Peineau,Fantôme | Lumière | Corps | ,Mulhouse,2022-01-12,15:06:45+01:00, , ,0,/MULHOUSE_PEINEAU_JEANNE_04_versionTravail.tif,14
+166,M,a,2021 | numérique | manon.brunel@hear.fr | ,Strasbourg,2022-01-21,16:13:40,600,10/1250,63,/STRASBOURG_BRUNEL_MANON_01_versionTravail.tif,9
+170,Rémi,Brimboeuf,Organique | Fluide | Inversion | ,Strasbourg,2021-12-02,20:02:43,35,1/50,131,/STRASBOURG_BRIMBOEUF_Remi_01_versionTravail.tif,19
+172,Jisu,Lee,Nudité | introspection | douceur | ,Metz,2021-10-18,19:12:53,32,1/30,65,/METZ_LEE_JIsu_versionTravail.tif,18
+174,Rémi,Brimboeuf,Organique | Fluide | Inversion | ,Strasbourg,2021-12-02,20:08:28,35,1/50,74,/STRASBOURG_BRIMBOEUF_Remi_02_versionTravail.tif,18
+175,Isabelle,Audoineau,organique | espace | rencontre | ,Mulhouse,2022-01-24,09:45:41,24,1/250,146,/MULHOUSE_AUDOINEAU_Isabelle_03_versionTravail.tif,12
+175,Drice,Ducongé dos Santos,Ecran | Aurore | Pixel | ,Strasbourg,2021-12-24,00:55:41,100,1/125,38,/STRASBOURG_DUCONGE-DOS-SANTOS_Drice_04_Versiondetravail.tif,13
+175,Teano + Valérian,Horn + Gago-Beaufour,cosmos | Verdun | météorite | ,Strasbourg + Reims,,, , ,0,/STRASBOURG_HORN_Teano_05_versionTravail.jpg,23
+176,Maya,Cyclarem,enfant | indigo | façinant | ,Mulhouse,2021-08-05,20:08:20,50,1/60,188,/MULHOUSE_DOUTRELANT_Maya_01_versionTravail.tif,8
+177,Maya,Cyclarem,envolé | legerté | irréel | ,Mulhouse,2022-01-05,13:42:32,50,1/250,24,/MULHOUSE_DOUTRELANT_Maya_03_versionTravail.tif,19
+177,Elisabeth,Nguyen,Visqueux | Cheveux | Organique | ,Nancy,2021-11-19,12:57:50,50,1/200,145,/NANCY_NGUYEN_Elisabeth_02_versionTravail.tif,9
+177,Rémi,Brimboeuf,Organique | Fluide | Inversion | ,Strasbourg,2021-12-02,20:06:59,35,1/50,97,/STRASBOURG_BRIMBOEUF_Remi_03_versionTravail.tif,23
+181,Manon,Brunel,Objet | Représentation | Corps céleste | ,Strasbourg,2022-01-21,15:57:01,600,10/5000,58,/STRASBOURG_BRUNEL_MANON_02_versionTravail.tif,11
+182,Philippine,Talamona,Rayonnement | Brûlure | Eclat | ,Strasbourg,2020-10-23,02:46:52,0,1/7845,34,/STRASBOURG_TALAMONA_Philippine_02_versionTravail.tif,24
+186,Elisabeth,Nguyen,Eau | Terre en vue | Atmosphère | ,Nancy,2021-11-19,12:56:23,50,1/200,243,/NANCY_NGUYEN_Elisabeth_01_versionTravail.tif,17
+196,Drice,Ducongé dos Santos,Ecran | Aurore | Pixel | ,Strasbourg,2021-12-24,00:01:36,100,1/320,66,/STRASBOURG_DUCONGE-DOS-SANTOS_Drice_01_Versiondetravail.tif,16
+201,Gauvain,Pedoni,Surexposition | Fête | Elevation | ,Nancy,2021-11-18,11:16:31,28,1/200,12,/NANCY_PEDONI_Gauvain_01_versionTravail.tif,16
+206,Gauvain,Pedoni,Surexposition | Fête | Elevation | ,Nancy,2021-11-18,11:14:22,28,1/200,10,/NANCY_PEDONI_Gauvain_04_versionTravail.tif,9
+207,Gauvain,Pedoni,Surexposition | Fête | Elevation | ,Nancy,2021-11-18,11:14:25,28,1/200,11,/NANCY_PEDONI_Gauvain_03_versionTravail.tif,22
+210,Gauvain,Pedoni,Surexposition | Fête | Elevation | ,Nancy,2021-11-18,11:14:45,28,1/200,10,/NANCY_PEDONI_Gauvain_02_versionTravail.tif,14
+215,Jules,Labatut,météorite | spectre coloré | 3D | ,Strasbourg,2021-12-23,14:25:32+01:00, , ,88,/STRASBOURG_LABATUT_Jules_01_versionTravail.tif,17
+217,Drice,Ducongé dos Santos,Ecran | Aurore | Pixel | ,Strasbourg,2021-12-24,00:59:44,100,1/125,131,/STRASBOURG_DUCONGE-DOS-SANTOS_Drice_03_Versiondetravail.tif,8
+223,Isabelle,Audoineau,organique | espace | extra-terrestre | ,Mulhouse,2022-01-03,09:57:29,18,1/1000,24,/MULHOUSE_AUDOINEAU_Isabelle_02_versionTravail.tif,20
+237,Jules,Labatut,amarssisage | rover | 3D | ,Strasbourg,2021-12-23,14:25:32+01:00, , ,24,/STRASBOURG_LABATUT_Jules_02_versionTravail.tif,18
+254,Elisabeth,Nguyen,Paysage | Eau | Imaginaire | ,Nancy,2021-11-19,12:57:50,50,1/200,130,/NANCY_NGUYEN_Elisabeth_03_versionTravail.tif,17
