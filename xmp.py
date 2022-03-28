@@ -11,7 +11,7 @@ import os
 directory = 'versiontravail_final'
 
 f=open("output.json","w")
-evv=open("test.csv","w")
+evv=open("correcouverture.csv","w")
 evv.write("fichier,nom,prenom,mots,ecole,date,heure,ouv.,vitesse"+"\n")
 for fname in os.listdir(directory):
     f = os.path.join(directory, fname)
@@ -21,14 +21,14 @@ for fname in os.listdir(directory):
         print(imagename+"\n")
         exif_dict = piexif.load(imagename)
         try:
-            ouverture_t = exif_dict["Exif"][piexif.ExifIFD.FocalLength]
+            ouverture_t = exif_dict["Exif"][piexif.ApertureValue]
         except:
             ouverture = " "
         else:
             ouverture = str(ouverture_t[0])
 
         try:
-            vitesse_t = exif_dict["Exif"][piexif.ExifIFD.ExposureTime]
+            vitesse_t = exif_dict["Exif"][piexif.ExifIFD.FNumber]
         except:
             vitesse = " "
         else:
@@ -83,5 +83,5 @@ for fname in os.listdir(directory):
             ecole = filedata["html"]["body"]["x:xmpmeta"]["rdf:rdf"]["rdf:description"]["dc:rights"]["rdf:alt"]["rdf:li"]["#text"]
         except:
             ecole = "PLOUP"
-        print(filename+","+prenom+","+nom+","+mots_clefs+","+ecole+","+date+","+heure+","+ouverture+","+vitesse+"\n")
-        evv.write(filename+","+prenom+","+nom+","+mots_clefs+","+ecole+","+date+","+heure+","+ouverture+","+vitesse+"\n")
+        print(filename+","+ouverture+","+vitesse+"\n")
+        evv.write(filename+","+ouverture+","+vitesse+"\n")
