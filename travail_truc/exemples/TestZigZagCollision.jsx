@@ -1,4 +1,4 @@
-#includepath "C:/Users/creep/Documents";
+#includepath "/Users/leagovignon/Documents";
 
 #include "basiljs/bundle/basil.js";
 
@@ -31,10 +31,10 @@ function draw() {
   b.imageMode(b.CENTER);
 
 
-  var file = File('D:/A4_S2/Mulhouse_BPM/Basil/data/data_mtsclf1.csv'); // get the file
+  var file = File('/Users/leagovignon/github/corpsceleste/travail_truc/exemples/data/data_mtsclf1.csv'); // get the file
   var csv_data = []
   file.encoding = 'WINDOWS-1252'; // set some encoding
-  file.lineFeed = "Windows";
+  file.lineFeed = "Macintosh";
   file.open('r'); // read the file
   do {
     csv_data.push(file.readln())
